@@ -1,0 +1,6 @@
+{
+  "name": "Graduaciones",
+  "description": "Sistema integral de gestión de eventos de graduación, cobranza flexible y portal para graduados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
